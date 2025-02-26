@@ -11,7 +11,7 @@ erDiagram
     TEXT_CHANNEL ||--o{ TEXT_CHANNEL_MESSAGE : contains
     USER ||--o{ TEXT_CHANNEL_MESSAGE : sends
     FRIENDSHIP }o--|| USER : "has friends"
-    USER ||--o{ FRIENDSHIP : "has friends"
+    USER }o--|| FRIENDSHIP : "has friends"
     SERVER }o..o{ SERVER_MEMBERSHIP : "has members"
     USER }o..o{ SERVER_MEMBERSHIP : "is in"
 
