@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: Discord Clone
 ---
@@ -65,3 +66,4 @@ erDiagram
         text content
         date sent_at
     }
+```
