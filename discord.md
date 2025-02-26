@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Discord Clone
+title: ER Diagram
 ---
 erDiagram
     SERVER }o..|{ USER : contains
