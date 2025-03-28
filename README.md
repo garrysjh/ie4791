@@ -1,4 +1,4 @@
-# iE4791
+# IE4791
 Database Systems Project 
 
 Done by Garry Shi, Ariel Goh, Loh Pui Mun, Lim Xian Long
